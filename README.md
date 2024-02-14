@@ -79,7 +79,11 @@ diff
 # Project 3
 
 
-https://github.com/vkt08/Object-Detection-in-Computer-Vision/assets/159147720/97935d75-89af-4472-be90-7b72c66264bf
+
+
+https://github.com/vkt08/Object-Detection-in-Computer-Vision/assets/159147720/14f53376-5f52-456b-b6a7-ba59ec2131b5
+
+
 
 
 ## A smaller yet powerful Project build using YOLOv8 to showcase one out of many real-world applications.
