@@ -81,8 +81,7 @@ diff
 
 
 
-https://github.com/vkt08/Object-Detection-in-Computer-Vision/assets/159147720/14f53376-5f52-456b-b6a7-ba59ec2131b5
-
+https://github.com/vkt08/Object-Detection-in-Computer-Vision/assets/159147720/4bd41ad2-aac2-40b2-b65c-97bbf312455f
 
 
 
