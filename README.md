@@ -13,9 +13,7 @@
 
 ## This Repository contains 3 Project Works on Object Detection:
 
-## ! If any of the files is showing any type of error, you can also use this [Drive Link](https://drive.google.com/drive/folders/1g-1384mGscvzo8tQrMRi3TiSOdwZspVM?usp=sharing) given here.
-
-
+## ! If any of the files is showing any type of error, you can also use this [Drive Link](https://drive.google.com/drive/folders/1khnD0ajwQ_mWtFnGbqZjnMGGq2LSSsGC?usp=drive_link) given here.
 
 [Dataset used for these Projects (Kaggle)](https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection)
 
